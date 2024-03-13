@@ -25,7 +25,7 @@ Hablaremos más en profundida sobre el papel que juegan más adelante.
 
 Podremos presionar la tecla 'E' y la tecla 'Q' para activar una animación de abrir o cerrar la compuerta en uno de los lados del terreno.
 
-![Funcionamiento puerta](/Documentacion/Imagenes/animacion-puerta.gif)
+![Funcionamiento puerta](/Imagenes/animacion-puerta.gif)
 
 Para ello hacemos uso del siguiente código:
 
@@ -221,7 +221,7 @@ A estos cambios le sumamos el uso del Animator Controller para manejar animacion
 
 Los enemigos harán una animación cíclica en la que se expanden y contraen a modo de respiración.
 
-![Animacion Enemigo](/Documentacion/Imagenes/animacion-respiracion.gif)
+![Animacion Enemigo](/Imagenes/animacion-respiracion.gif)
 
 Enemigo haciendo la animación de respiración.
 
